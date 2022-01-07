@@ -11,3 +11,5 @@
   - DEV Community: https://dev.to/dendihandian
   - Linkedin: https://www.linkedin.com/in/dendihandian
   - Polywork: https://www.polywork.com/dendihandian
+  - Huggingface: https://huggingface.co/dendihandian
+  - Kaggle: https://www.kaggle.com/dendihandian
